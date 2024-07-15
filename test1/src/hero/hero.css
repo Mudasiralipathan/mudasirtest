@@ -58,7 +58,7 @@
     font-size: 15px;
 }
 .div2>div:nth-child(5)>button{
-    background-color: orange;
+    background-color: rgb(255, 204, 110);
     color: white;
     border: none;
     margin-top: 70px;
